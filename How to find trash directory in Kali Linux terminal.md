@@ -1,7 +1,7 @@
 # Kali-Linux
 How to find trash directory in Kali Linux terminal:
 
-Go to Terminal folder, select a file and right-click on this file and select Open With "XTerm"
+Go to Trash folder, select a file and right-click on this file and select Open With "XTerm"
 
 ![Screen Shot 2022-03-11 at 4 00 41 PM](https://user-images.githubusercontent.com/67795345/157886986-03fcb23f-34f0-4a04-803f-41afdabacaee.png)
 
